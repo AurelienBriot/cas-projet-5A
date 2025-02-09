@@ -5,6 +5,7 @@
 Clonez ce dépôt sur votre ordinateur : 
 ```
 https://github.com/AurelienBriot/cas-projet-5A.git
+cd ./cas-projet-5A
 ```
 
 Construisez et démarrez l'image Docker (cela peut prendre plusieurs minutes) :
