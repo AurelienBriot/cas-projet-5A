@@ -1,0 +1,13 @@
+{
+  "@class": "org.apereo.cas.services.CasRegisteredService",
+  "id": 1,
+  "name": "polygestion",
+  "serviceId": "^http://localhost:8080/.*",
+  "description": "Service pour Polygestion - Test CAS",
+  "accessStrategy": {
+    "@class": "org.apereo.cas.services.DefaultRegisteredServiceAccessStrategy",
+    "enabled": true,
+    "ssoEnabled" : false
+  },
+  "logoutUrl": "http://localhost:8080/logout"
+}
