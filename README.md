@@ -24,8 +24,7 @@ Ces utilisateurs sont à utiliser à des fins de tests, étant donné qu'ils son
 
 ## Tester avec l'application
 
-Assurez-vous d'avoir démarré le serveur CAS. Sur l'application, basculer sur la branche `ConnexionCAS`, et lancez l'application.
-
+Assurez-vous d'avoir démarré le serveur CAS. Lancez l'application.
 Rendez-vous à l'adresse http://localhost:8080/accueil. Vous y trouverez un bouton de connexion qui redirigera vers le CAS.
 
 ## Configuration du CAS sur l'application
