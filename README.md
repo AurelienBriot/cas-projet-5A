@@ -14,6 +14,7 @@ docker compose up
 ```
 
 Le serveur CAS sera disponible à l'adresse http://localhost:9090.
+Deux utilisateurs sont disponibles : `user` avec le mot de passe `password`, et `admin` avec le mot de passe `admin`.
 
 ## Ajouter un nouvel utilisateur
 
